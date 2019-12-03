@@ -21,3 +21,6 @@ alias greps='grep -rnw "." -e'
 alias fgreps='fgrep -rnw "." -e'
 alias ifgreps='fgrep -irnw "." -e'
 
+# tmux
+alias tn="tmux new -s"
+alias ta="tmux attach -t"
