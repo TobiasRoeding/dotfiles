@@ -1,10 +1,13 @@
 
 # dotfiles
-My personal configuration/dotfiles
+My personal configuration/dotfiles together with a basic setup file
 
 TODO:
 * How to install
 * Installation script
+
+## Setup
+Execute setup.sh files which will automatically install Homebrew together with a lot of application and plugins
 
 
 ## Prerequisites & Comments
@@ -15,3 +18,9 @@ To activate the git aliases you need to configure them in the .gitconfig in your
 [include]
     path = /path/to/file
 ```
+
+
+
+
+
+
