@@ -31,5 +31,7 @@ To restore the vim configuration please copy the file into the home directory of
 ### screen ([screenrc](screenrc))
 To restore the screen configuration please copy the file into the home directory of the user and rename it to ".screenrc"
 
+### fish ([config.fish](config.fish))
+To restore the fish configuration please copy the file to the location ".config/fish/"
 
 

@@ -9,7 +9,7 @@ alias cd...='cd ../..'
 
 alias mkdir='mkdir -p'
 
-alias duls='du -shc `ls`'
+alias duls='du -shc *'
 
 # Finding / Grepping
 alias grep='grep --color=auto'
@@ -24,3 +24,6 @@ alias ifgreps='fgrep -irnw "." -e'
 # tmux
 alias tn="tmux new -s"
 alias ta="tmux attach -t"
+
+# History
+export HISTIGNORE="pwd:ls:cd"
